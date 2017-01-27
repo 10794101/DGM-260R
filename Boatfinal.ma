@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: Boatfinal.ma
-//Last modified: Thu, Jan 26, 2017 04:18:44 PM
+//Last modified: Thu, Jan 26, 2017 04:26:51 PM
 //Codeset: 1252
 requires maya "2017";
 currentUnit -l centimeter -a degree -t film;
