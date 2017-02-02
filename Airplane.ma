@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: Airplane.ma
-//Last modified: Thu, Jan 26, 2017 06:55:05 PM
+//Last modified: Thu, Jan 26, 2017 07:01:11 PM
 //Codeset: 1252
 requires maya "2017";
 currentUnit -l centimeter -a degree -t film;
