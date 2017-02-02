@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: Staff_Model_01.ma
-//Last modified: Wed, Feb 01, 2017 06:43:52 PM
+//Last modified: Wed, Feb 01, 2017 06:48:22 PM
 //Codeset: 1252
 requires maya "2017";
 currentUnit -l centimeter -a degree -t film;
